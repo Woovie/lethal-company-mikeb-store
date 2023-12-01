@@ -1,0 +1,11 @@
+{
+  "name": "IceCreamTruckAkamikebMusic",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.com/invite/akamikeb",
+  "description": "A mod for the akamikeb community",
+  "dependencies": [
+    "Clementinise-CustomSounds-1.2.0"
+  ]
+}
+
+
